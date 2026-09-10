@@ -35,7 +35,8 @@ designed to transform chaotic, unsorted data into structured states.
 ## 📫 Connect With Me
 
 GitHub: [@ShreyanshRaaJ](https://github.com/ShreyanshRaaJ)
-
+Instagram:
+[@Shreyansh_rrj] (http://instagram.com/Shreyansh_rrj)
 ---
 
 ⭐ Thanks for visiting my profile!# quantum-sort
