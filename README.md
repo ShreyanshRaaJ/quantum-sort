@@ -20,9 +20,6 @@ C • C++ • Python • Git • GitHub
 
 ## 📌 Projects
 
-### 🔬 quantum-sort
-## 📌 Projects
-
 ### ◈ VEXORA
 
 > **AI × Gaming — Built to understand the game beyond the screen.**
@@ -47,6 +44,9 @@ THINK      →   Analyze gameplay & events
 UNDERSTAND →   Recognize important moments
 RESPOND    →   Generate intelligent interaction
 CREATE     →   Turn gameplay into content
+
+###VEXORA — Where AI meets the game.
+###Currently under development.
 
 ## 🎯 Goals
 
