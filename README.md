@@ -1,66 +1,82 @@
 # Hey, I'm Shreyansh 👋
 
-🎓 ECE Student | 💻 Programmer | ⚡ Tech Enthusiast
+### 🎓 ECE Student · 💻 Programmer · ⚡ Tech Enthusiast
 
-I'm currently learning programming, algorithms, electronics, and
-building projects that combine hardware and software.
+I'm exploring the world of **programming, electronics, algorithms, and AI** —
+building projects where **hardware meets software**.
 
-## 🚀 Currently Learning
+---
 
-- C
-- C++
-- Python
-- Data Structures & Algorithms
-- Git & GitHub
-- Embedded Systems
+## ⚡ Currently Learning
+
+```text
+C              █████████░░
+C++            ████████░░░
+Python         ███████░░░░
+DSA            ██████░░░░░
+Git & GitHub   ████████░░░
+Embedded       █████░░░░░░
 
 ## 🛠️ Tech Stack
 
-C • C++ • Python • Git • GitHub
+Languages
 
-## 📌 Projects
+#C · C++ · Python
+#Tools & Technologies
+#Git · GitHub 
+#Linux · Embedded Systems · AI/ML
 
-### ◈ VEXORA
+🚀 Featured Project
 
-> **AI × Gaming — Built to understand the game beyond the screen.**
-
+◈ VEXORA
+AI × Gaming — Built to understand the game beyond the screen.
 VEXORA is an experimental AI platform exploring the intersection of
-**Artificial Intelligence, Computer Vision, Voice AI, and Gaming.**
+Artificial Intelligence · Computer Vision · Voice AI · Gaming
 
-It is designed around the idea of an intelligent gaming system that can
-**see, understand, analyze, and respond to gameplay** — turning raw game
-activity into meaningful intelligence and interaction.
+The idea is simple:
 
----
+What if an AI could actually understand what is happening inside a game?
+VEXORA explores an intelligent gaming system capable of observing gameplay, understanding events, analyzing what's happening, and responding intelligently.
 
-### ◇ What is VEXORA?
+◇ The Concept
+        ┌───────────────┐
+        │    GAMEPLAY   │
+        └───────┬───────┘
+                ↓
+        👁️  SEE
+        Understand the screen
+                ↓
+        🧠  THINK
+        Analyze gameplay
+                ↓
+        ◇  UNDERSTAND
+        Detect important events
+                ↓
+        🎙️  RESPOND
+        Generate intelligent interaction
+                ↓
+        ✦  CREATE
+        Turn gameplay into content
+◇ Core Areas
+Computer Vision · AI/ML · Game Analytics
+LLMs · Voice AI · Real-time Processing
+VEXORA — Where AI meets the game.
 
-VEXORA aims to become an intelligent **AI Gaming Companion** capable of
-understanding gameplay and assisting players and creators in real time.
+Status: 🟢 Under Development
 
-```text
-SEE        →   Understand what's happening
-THINK      →   Analyze gameplay & events
-UNDERSTAND →   Recognize important moments
-RESPOND    →   Generate intelligent interaction
-CREATE     →   Turn gameplay into content
+🎯 What I'm Working Towards
 
-###VEXORA — Where AI meets the game.
-###Currently under development.
+Building useful and meaningful projects
+Strengthening programming fundamentals
+Exploring AI & Computer Vision
+Learning electronics and embedded systems
+Improving DSA & problem-solving
+Turning ideas into real-world projects
 
-## 🎯 Goals
+📫 Connect
+GitHub → @ShreyanshRaaJ⁠
+Instagram → @Shreyansh_rrj⁠
 
-- Build useful projects
-- Improve my programming skills
-- Learn electronics and embedded systems
-- Explore algorithms and problem solving
+✦ Thanks for stopping by!
 
-## 📫 Connect With Me
-
-GitHub: [@ShreyanshRaaJ](https://github.com/ShreyanshRaaJ)
-Instagram:
-[@Shreyansh_rrj] (http://instagram.com/Shreyansh_rrj)
----
-
-⭐ Thanks for visiting my profile!# quantum-sort
-An ECE-engineered algorithmic gateway inspired by the Quantum Realm, designed to collapse chaotic, unsorted data arrays into structured states.
+Keep building. Keep learning. Keep experimenting. 🚀
